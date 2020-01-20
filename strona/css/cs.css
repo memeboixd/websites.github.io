@@ -1,0 +1,123 @@
+
+body{
+  background-image: url("../u6w46sir.bmp");
+  background-repeat: no-repeat;
+  background-color: lightsalmon;
+  background-blend-mode: darken;
+
+}
+
+#title{
+  font-size: 95px;
+  height: 750px;
+  width: 700px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  color: bisque;
+  alignment: center;
+  font-family: CORDON;
+
+}
+
+
+
+
+
+
+#meme{
+  margin-top: 370px;
+  width: 1000px;
+  height: 1500px;
+  margin-left: 60px;
+
+}
+#napis{
+  alignment: left;
+    margin-top: 70px;
+  width: 700px;
+  height: 700px;
+  border: white;
+  font-size: 32px;
+  font-family: "Lucida Console";
+  color: whitesmoke;
+  margin-left: 60px;
+
+}
+#video{
+  alignment: right;
+  width: 1200px;
+  height: 900px;
+  margin-top: 40px;
+  margin-left: 60px;
+
+}
+
+
+
+#txt2{
+    margin-top: 150px;
+  width: 800px;
+  height: 700px;
+  border: white;
+  font-size: 32px;
+  font-family: "Lucida Console";
+  color: whitesmoke;
+  alignment: right;
+  margin-left: 60px;
+}
+#title2{
+ font-size: 24px;
+  height: 200px;
+  width: 700px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  font-family: "Lucida Console";
+  color: whitesmoke;
+  alignment: center;
+  margin-left: 60px;
+
+
+
+
+}
+
+#title3{
+   font-size: 24px;
+  height: 150px;
+  width: 600px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  font-family: "Lucida Console";
+  color: whitesmoke;
+  alignment: center;
+  margin-left: 60px;
+}
+
+#table{
+
+  font-size: 24px;
+  height: 400px;
+  width: 600px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-family: "Lucida Console";
+  color: whitesmoke;
+  alignment: center;
+  margin-left: 60px;
+
+}
+#array{
+
+  font-size: 24px;
+  height: 200px;
+  width: 600px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-family: "Lucida Console";
+  color: whitesmoke;
+  alignment: center;
+  margin-left: 60px;
+
+}
+
+
